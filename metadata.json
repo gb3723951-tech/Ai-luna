@@ -1,0 +1,6 @@
+{
+  "name": "AI Luna",
+  "description": "AI Luna - Generate, preview, and edit interactive web applications from simple text prompts with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
